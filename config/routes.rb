@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
-  get 'ststic_pages/top'
+  get 'static_pages/top'
+
 
   
 
